@@ -1,0 +1,24 @@
+# AI Resume Analyser
+
+## Overview
+AI Resume Analyser is a Python-based application that analyses resumes using Natural Language Processing (NLP). It compares resumes with job descriptions, extracts skills, calculates an ATS compatibility score, and provides suggestions to improve resumes.
+
+## Features
+- Resume Parsing (PDF/DOCX)
+- ATS Score Calculation
+- Skill Extraction
+- Job Description Matching
+- Resume Suggestions
+- Interactive Dashboard
+
+## Technologies
+- Python
+- Streamlit
+- spaCy
+- NLTK
+- Scikit-learn
+- Pandas
+- PyPDF2
+
+## Author
+Abhisankha Debnath
